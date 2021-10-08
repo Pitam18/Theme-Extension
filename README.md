@@ -9,4 +9,4 @@ How to install:
 
 Note:We have to input the colour on popup window & Click on the button
      of change theme.This will change your window theme.
-     (Refresh the page after Enable the extension)
+     (Refresh the page after Enabling the extension)
